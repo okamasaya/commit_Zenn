@@ -16,7 +16,7 @@ published: false
 
 ベイズ推定を選んだ理由と、観測するたびに考えを更新する仕組みまで、一つの小さな計算で見てみます。
 
-シリーズの全体像は、[第0回「三好の記録とカイジの違和感」](https://github.com/okamasaya/underground_ChinChiro_with_baysian/blob/main/articles/chinchiro-bayes-00-overview.md)にまとめています。
+シリーズの全体像は、[第0回「三好の記録とカイジの違和感」](https://zenn.dev/okamasaya/articles/chinchiro-bayes-00-overview)にまとめています。
 
 ## 台風の進路を予測する前に、現在を知りたい
 
