@@ -74,7 +74,7 @@ published: false
 
 この設定で、同じ出目列を観測したときの「456賽を混ぜる戦略に置く確率」を描いたのが、次の図です。最初の確率だけを1%・10%・50%と変えています。
 
-![同じ出目列を観測したときの仮説確率。事前確率1%・10%・50%の3本の線が、4〜6の出目で上昇し、7回目の出目2で低下する。](https://github.com/okamasaya/underground_ChinChiro_with_baysian/blob/main/images/chinchiro-bayes-00-overview/posterior.png)
+![同じ出目列を観測したときの仮説確率。事前確率1%・10%・50%の3本の線が、4〜6の出目で上昇し、7回目の出目2で低下する。](/images/chinchiro-bayes/posterior.png)
 
 *説明用の出目列「4, 6, 5, 4, 6, 5, 2, 4, 5, 6」による例。図の出発点と456賽の使用率は説明のための仮定で、原作から求めた値ではありません。*
 
