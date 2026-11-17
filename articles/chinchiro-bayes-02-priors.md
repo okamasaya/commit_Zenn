@@ -16,7 +16,7 @@ published: false
 
 差を生むのが、観測前の出発点となる**事前確率**です。同じ記録を見ているのに、なぜここまで違うのか。今回は、出目を重ねたときの更新を、図と計算で追ってみます。
 
-[第1回](https://github.com/okamasaya/underground_ChinChiro_with_baysian/blob/main/articles/chinchiro-bayes-01-why-bayes.md)では、仮説に置く確率と出目の出やすさを掛け合わせ、合計が1になるように割り直しました。未読でも、ここから同じ計算を追えるようにします。[シリーズの全体像は第0回](https://github.com/okamasaya/underground_ChinChiro_with_baysian/blob/main/articles/chinchiro-bayes-00-overview.md)にあります。
+[第1回](https://zenn.dev/okamasaya/articles/chinchiro-bayes-01-why-bayes)では、仮説に置く確率と出目の出やすさを掛け合わせ、合計が1になるように割り直しました。未読でも、ここから同じ計算を追えるようにします。[シリーズの全体像は第0回](https://zenn.dev/okamasaya/articles/chinchiro-bayes-00-overview)にあります。
 
 ## 今回は「常に使う」二つの仮説を比べる
 
