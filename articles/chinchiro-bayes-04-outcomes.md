@@ -14,7 +14,7 @@ published: false
 
 そこで見えてくるのは、**勝ち負けが同じでも、出目の記録が持つ意味は違う**ということです。
 
-[第3回](https://github.com/okamasaya/underground_ChinChiro_with_baysian/blob/main/articles/chinchiro-bayes-03-mixture.md)では、通常賽を混ぜると、1〜3が出ても戦略への疑いが残ることを見ました。今回は、その使い方を3個一式へ広げます。[シリーズ全体の案内は第0回](https://github.com/okamasaya/underground_ChinChiro_with_baysian/blob/main/articles/chinchiro-bayes-00-overview.md)にあります。
+[第3回](https://zenn.dev/okamasaya/articles/chinchiro-bayes-03-mixture)では、通常賽を混ぜると、1〜3が出ても戦略への疑いが残ることを見ました。今回は、その使い方を3個一式へ広げます。[シリーズ全体の案内は第0回](https://zenn.dev/okamasaya/articles/chinchiro-bayes-00-overview)にあります。
 
 ## まず、どんな勝負を計算するかを決める
 
