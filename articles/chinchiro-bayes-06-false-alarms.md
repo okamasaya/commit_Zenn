@@ -12,7 +12,7 @@ published: false
 
 では、「99%怪しい」と判定する規則は、どのくらい誤るのでしょうか。毎手番、途中の確率を確認し続けてもよいのでしょうか。
 
-[第5回](https://github.com/okamasaya/underground_ChinChiro_with_baysian/blob/main/articles/chinchiro-bayes-05-context.md)では、局面と出目を対応させた仮想系列で、戦略仮説の確率が約99.96%になりました。今回は一つの系列から離れ、**同じ規則を、得られ得るさまざまな記録へ適用したらどうなるか**を考えます。[シリーズ全体の案内は第0回](https://github.com/okamasaya/underground_ChinChiro_with_baysian/blob/main/articles/chinchiro-bayes-00-overview.md)にあります。
+[第5回](https://zenn.dev/okamasaya/articles/chinchiro-bayes-05-context)では、局面と出目を対応させた仮想系列で、戦略仮説の確率が約99.96%になりました。今回は一つの系列から離れ、**同じ規則を、得られ得るさまざまな記録へ適用したらどうなるか**を考えます。[シリーズ全体の案内は第0回](https://zenn.dev/okamasaya/articles/chinchiro-bayes-00-overview)にあります。
 
 ## 「この記録なら99%」と「何回中何回誤るか」
 
