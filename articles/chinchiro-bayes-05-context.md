@@ -12,7 +12,7 @@ published: false
 
 三好の記録と、そこに目を向けるカイジ。シリーズの入口に置いたこのつながりへ、今回は戻ります。
 
-[第4回](https://github.com/okamasaya/underground_ChinChiro_with_baysian/blob/main/articles/chinchiro-bayes-04-outcomes.md)では、456賽でも負けること、同じ勝敗でも出目によって証拠の向きが変わることを見ました。今回は、さらに**出目と局面の対応**を考えます。[シリーズ全体の案内は第0回](https://github.com/okamasaya/underground_ChinChiro_with_baysian/blob/main/articles/chinchiro-bayes-00-overview.md)にあります。
+[第4回](https://zenn.dev/okamasaya/articles/chinchiro-bayes-04-outcomes)では、456賽でも負けること、同じ勝敗でも出目によって証拠の向きが変わることを見ました。今回は、さらに**出目と局面の対応**を考えます。[シリーズ全体の案内は第0回](https://zenn.dev/okamasaya/articles/chinchiro-bayes-00-overview)にあります。
 
 ## 「いつも使う」と「ここで使う」は、違う説明になる
 
