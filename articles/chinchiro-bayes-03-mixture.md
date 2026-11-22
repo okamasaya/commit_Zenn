@@ -17,6 +17,7 @@ published: false
 90%の確率で456賽を選ぶ設定では、1〜3を1回見た後、4〜6が1回出るだけでは、低下する前の水準へ戻りません。少なくとも4回の4〜6が必要になります。
 
 その理由を、[第2回](https://zenn.dev/okamasaya/articles/chinchiro-bayes-02-priors)で使った「支持の比」、つまりオッズから見てみます。
+[シリーズ全体の案内は第0回](https://zenn.dev/okamasaya/articles/chinchiro-bayes-00-overview)にあります。
 
 ## 「普通の目も出る」使い方を、候補に入れる
 
