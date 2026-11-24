@@ -12,7 +12,7 @@ published: false
 
 ただ、計算で高い確率が出たことと、現実の仕組みを正しく言い当てたことは、同じではありません。
 
-[第6回](https://zenn.dev/okamasaya/articles/chinchiro-bayes-06-false-alarmsでは、仮説や判定規則を固定したモデルの下で、誤警報の確率を評価しました。シリーズの最後は、そのモデルと現実の間に戻ります。
+[第6回](https://zenn.dev/okamasaya/articles/chinchiro-bayes-06-false-alarms)では、仮説や判定規則を固定したモデルの下で、誤警報の確率を評価しました。シリーズの最後は、そのモデルと現実の間に戻ります。
 
 何が記録から分かり、何が仮定に依存するのか。その区別を付けることが、理解度などの見えない状態を推定し、役立てていくための足場になりそうです。[シリーズ全体の案内は第0回](https://zenn.dev/okamasaya/articles/chinchiro-bayes-00-overview)にあります。
 
